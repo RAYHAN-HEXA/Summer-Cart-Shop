@@ -4,8 +4,6 @@ A modern summer eCommerce platform where users can explore and purchase seasonal
 
 ## 🌐 Live URL
 
-> [https://suncart-essential-store.vercel.app](https://suncart-essential-store.vercel.app)
-
 ## 📌 Project Purpose
 
 SunCart is a full-featured summer shopping platform built with Next.js App Router. Users can browse summer products, view detailed product pages (protected by authentication), register/login with email or Google, and manage their profile.
