@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ```env
 BETTER_AUTH_SECRET=your-secret-key
-BETTER_AUTH_URL=http://localhost:3000
+BETTER_AUTH_URL=http://
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
